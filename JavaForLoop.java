@@ -7,6 +7,8 @@ public class JavaForLoop {
         n = sc.nextInt();
         for(int i=1;i<=10;i++){
             System.out.println(n + " x " + i + " = "  + i * n);
+            
+            //prints out your choice of table you like
         }
     }
 }
